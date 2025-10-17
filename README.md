@@ -7,38 +7,37 @@ This project is a full-stack comment system with features such as posting commen
 
 Features
 
-User Authentication
+- User Authentication
 
-Register, Login, and Logout functionality.
+- Register, Login, and Logout functionality.
 
-JWT-based authentication for secure API requests.
+- JWT-based authentication for secure API requests.
 
 Comments
 
-Users can post comments on a post.
+- Users can post comments on a post.
 
-Nested replies supported (replies to comments).
+- Nested replies supported (replies to comments).
 
-Upvote functionality for comments and replies.
+- Upvote functionality for comments and replies.
 
 Admin Features
 
-Admin users can delete any comment.
+- Admin users can delete any comment.
 
-Regular users can delete only their own comments.
+- Regular users can delete only their own comments.
 
 User Display
 
-Each comment displays the user’s name and avatar.
-
-Supports both old comments (existing data) and new comments.
+- Each comment displays the user’s name and avatar.
 
 Tech Stack
 
-Frontend: React, Axios
+- Frontend: React, Axios
 
-Backend: Node.js, Express.js, Mongoose (MongoDB)
+- Backend: Node.js, Express.js, Mongoose (MongoDB)
 
-Authentication: JWT (JSON Web Tokens)
+- Authentication: JWT (JSON Web Tokens)
 
-Database: MongoDB
+- Database: MongoDB
+
