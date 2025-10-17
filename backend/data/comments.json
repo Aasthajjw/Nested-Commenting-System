@@ -1,0 +1,4502 @@
+[
+  {
+    "_id": 1,
+    "parent": null,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 50,
+    "created_at": "2023-09-08T05:01:07.787Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 2,
+    "parent": null,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 45,
+    "created_at": "2024-07-08T16:54:08.105Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 3,
+    "parent": null,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 45,
+    "created_at": "2023-04-04T01:10:42.059Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 4,
+    "parent": null,
+    "text": "This needs more clarification.",
+    "upvotes": 21,
+    "created_at": "2024-09-04T06:51:13.222Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 5,
+    "parent": null,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 53,
+    "created_at": "2024-05-25T02:32:45.007Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 6,
+    "parent": null,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 41,
+    "created_at": "2024-10-27T19:06:34.677Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 7,
+    "parent": null,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 26,
+    "created_at": "2022-11-12T12:21:50.178Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 8,
+    "parent": null,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 45,
+    "created_at": "2023-07-02T11:37:26.526Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 9,
+    "parent": null,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 63,
+    "created_at": "2022-12-29T01:46:09.797Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 10,
+    "parent": null,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 50,
+    "created_at": "2023-10-28T11:12:59.263Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 11,
+    "parent": null,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 77,
+    "created_at": "2025-01-11T21:57:34.464Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 12,
+    "parent": null,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 80,
+    "created_at": "2024-04-26T16:30:19.631Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 13,
+    "parent": null,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 11,
+    "created_at": "2023-08-01T07:58:04.692Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 14,
+    "parent": null,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 60,
+    "created_at": "2025-09-01T18:01:36.863Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 15,
+    "parent": null,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 78,
+    "created_at": "2023-07-22T18:31:10.286Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 16,
+    "parent": null,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 6,
+    "created_at": "2023-09-02T08:20:03.808Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 17,
+    "parent": null,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 27,
+    "created_at": "2025-08-31T22:59:23.427Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 18,
+    "parent": null,
+    "text": "Very engaging content!",
+    "upvotes": 7,
+    "created_at": "2023-11-09T00:58:20.404Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 19,
+    "parent": null,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 3,
+    "created_at": "2024-08-15T19:55:38.077Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 20,
+    "parent": null,
+    "text": "Very engaging content!",
+    "upvotes": 46,
+    "created_at": "2025-09-06T04:23:02.110Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 21,
+    "parent": null,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 84,
+    "created_at": "2024-05-02T11:15:48.568Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 22,
+    "parent": null,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 59,
+    "created_at": "2022-11-12T12:45:50.179Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 23,
+    "parent": null,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 38,
+    "created_at": "2025-10-04T20:39:28.135Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 24,
+    "parent": null,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 54,
+    "created_at": "2025-03-06T21:36:34.357Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 25,
+    "parent": null,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 91,
+    "created_at": "2024-03-04T10:59:23.189Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 26,
+    "parent": null,
+    "text": "I learned something new today.",
+    "upvotes": 90,
+    "created_at": "2024-04-08T12:50:26.581Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 27,
+    "parent": null,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 61,
+    "created_at": "2023-01-14T22:20:45.807Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 28,
+    "parent": null,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 21,
+    "created_at": "2025-05-22T03:08:50.770Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 29,
+    "parent": null,
+    "text": "This needs more clarification.",
+    "upvotes": 89,
+    "created_at": "2024-11-13T23:25:15.226Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 30,
+    "parent": null,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 80,
+    "created_at": "2023-02-09T00:43:19.364Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 31,
+    "parent": null,
+    "text": "I completely agree with your point here.",
+    "upvotes": 54,
+    "created_at": "2023-01-23T14:42:35.577Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 32,
+    "parent": null,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 77,
+    "created_at": "2023-09-14T08:48:39.616Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 33,
+    "parent": null,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 58,
+    "created_at": "2023-09-21T17:59:25.131Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 34,
+    "parent": null,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 26,
+    "created_at": "2023-02-27T12:17:55.354Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 35,
+    "parent": null,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 29,
+    "created_at": "2024-12-19T11:43:07.001Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 36,
+    "parent": null,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 3,
+    "created_at": "2023-08-20T19:20:35.690Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 37,
+    "parent": null,
+    "text": "I think this argument is weak.",
+    "upvotes": 26,
+    "created_at": "2023-11-07T23:11:06.487Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 38,
+    "parent": null,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 12,
+    "created_at": "2024-10-29T00:08:24.850Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 39,
+    "parent": null,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 34,
+    "created_at": "2025-07-01T02:18:35.098Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 40,
+    "parent": null,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 39,
+    "created_at": "2023-11-26T21:47:20.419Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 41,
+    "parent": null,
+    "text": "I completely agree with your point here.",
+    "upvotes": 58,
+    "created_at": "2024-01-10T10:54:38.682Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 42,
+    "parent": null,
+    "text": "I learned something new today.",
+    "upvotes": 88,
+    "created_at": "2023-07-05T21:52:01.369Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 43,
+    "parent": null,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 12,
+    "created_at": "2023-08-03T11:03:50.455Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 44,
+    "parent": null,
+    "text": "Nice article, very well written.",
+    "upvotes": 63,
+    "created_at": "2024-05-01T21:37:09.981Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 45,
+    "parent": null,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 18,
+    "created_at": "2025-09-26T09:00:30.906Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 46,
+    "parent": null,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 31,
+    "created_at": "2022-11-10T06:50:59.407Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 47,
+    "parent": null,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 77,
+    "created_at": "2022-12-31T21:05:54.164Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 48,
+    "parent": null,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 92,
+    "created_at": "2024-11-16T16:10:53.100Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 49,
+    "parent": null,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 12,
+    "created_at": "2023-12-30T19:20:11.606Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 50,
+    "parent": null,
+    "text": "Brilliant explanation!",
+    "upvotes": 49,
+    "created_at": "2025-08-31T19:23:42.846Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 51,
+    "parent": 44,
+    "text": "I completely agree with your point here.",
+    "upvotes": 49,
+    "created_at": "2023-10-13T16:00:07.642Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 52,
+    "parent": 23,
+    "text": "I think this argument is weak.",
+    "upvotes": 94,
+    "created_at": "2023-01-29T14:07:20.155Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 53,
+    "parent": 11,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 58,
+    "created_at": "2024-12-14T14:27:37.735Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 54,
+    "parent": 22,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 77,
+    "created_at": "2023-12-09T19:28:43.118Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 55,
+    "parent": 44,
+    "text": "I learned something new today.",
+    "upvotes": 67,
+    "created_at": "2024-02-09T04:44:26.650Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 56,
+    "parent": 42,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 89,
+    "created_at": "2025-01-11T05:01:06.884Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 57,
+    "parent": 48,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 60,
+    "created_at": "2024-05-25T06:15:26.076Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 58,
+    "parent": 37,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 9,
+    "created_at": "2023-10-26T03:24:52.502Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 59,
+    "parent": 49,
+    "text": "Brilliant explanation!",
+    "upvotes": 64,
+    "created_at": "2024-11-09T05:42:30.837Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 60,
+    "parent": 16,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 41,
+    "created_at": "2024-06-07T14:56:21.651Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 61,
+    "parent": 8,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 42,
+    "created_at": "2023-05-16T02:41:16.127Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 62,
+    "parent": 40,
+    "text": "Brilliant explanation!",
+    "upvotes": 56,
+    "created_at": "2023-08-21T21:19:26.757Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 63,
+    "parent": 16,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 85,
+    "created_at": "2023-05-09T04:07:51.994Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 64,
+    "parent": 31,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 19,
+    "created_at": "2022-10-20T16:29:46.726Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 65,
+    "parent": 4,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 50,
+    "created_at": "2024-04-03T18:31:13.471Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 66,
+    "parent": 12,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 77,
+    "created_at": "2025-07-30T20:45:21.172Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 67,
+    "parent": 2,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 23,
+    "created_at": "2025-01-10T01:36:40.250Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 68,
+    "parent": 43,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 40,
+    "created_at": "2024-01-31T11:05:02.790Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 69,
+    "parent": 36,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 34,
+    "created_at": "2024-07-02T10:21:26.041Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 70,
+    "parent": 6,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 30,
+    "created_at": "2025-08-02T19:27:50.711Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 71,
+    "parent": 51,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 30,
+    "created_at": "2023-11-02T05:58:41.199Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 72,
+    "parent": 4,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 0,
+    "created_at": "2024-10-04T13:40:37.314Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 73,
+    "parent": 29,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 84,
+    "created_at": "2023-06-08T06:38:56.891Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 74,
+    "parent": 23,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 67,
+    "created_at": "2024-08-26T17:36:55.450Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 75,
+    "parent": 63,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 24,
+    "created_at": "2024-04-24T03:13:22.405Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 76,
+    "parent": 35,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 93,
+    "created_at": "2024-02-20T21:53:42.587Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 77,
+    "parent": 32,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 2,
+    "created_at": "2025-01-06T02:55:01.208Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 78,
+    "parent": 59,
+    "text": "Brilliant explanation!",
+    "upvotes": 79,
+    "created_at": "2025-07-16T04:57:41.260Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 79,
+    "parent": 58,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 5,
+    "created_at": "2023-10-28T20:12:02.700Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 80,
+    "parent": 70,
+    "text": "I think this argument is weak.",
+    "upvotes": 60,
+    "created_at": "2022-11-27T06:03:33.588Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 81,
+    "parent": 53,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 80,
+    "created_at": "2024-10-08T22:18:52.540Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 82,
+    "parent": 65,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 91,
+    "created_at": "2023-01-28T05:53:52.106Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 83,
+    "parent": 7,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 96,
+    "created_at": "2025-04-02T18:39:27.861Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 84,
+    "parent": 80,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 51,
+    "created_at": "2023-05-27T23:43:30.757Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 85,
+    "parent": 22,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 7,
+    "created_at": "2023-07-01T17:03:47.699Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 86,
+    "parent": 43,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 59,
+    "created_at": "2024-09-24T04:15:32.788Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 87,
+    "parent": 47,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 13,
+    "created_at": "2023-11-27T17:19:57.303Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 88,
+    "parent": 62,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 55,
+    "created_at": "2024-08-27T08:22:58.603Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 89,
+    "parent": 18,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 44,
+    "created_at": "2024-11-02T06:01:06.800Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 90,
+    "parent": 89,
+    "text": "Nice article, very well written.",
+    "upvotes": 44,
+    "created_at": "2024-12-20T12:26:13.187Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 91,
+    "parent": 90,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 100,
+    "created_at": "2025-07-23T01:38:33.995Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 92,
+    "parent": 17,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 47,
+    "created_at": "2023-12-22T20:01:22.706Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 93,
+    "parent": 26,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 89,
+    "created_at": "2023-02-17T18:22:29.587Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 94,
+    "parent": 33,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 7,
+    "created_at": "2022-11-08T01:09:33.911Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 95,
+    "parent": 76,
+    "text": "Nice article, very well written.",
+    "upvotes": 50,
+    "created_at": "2024-12-23T04:28:18.986Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 96,
+    "parent": 44,
+    "text": "Very engaging content!",
+    "upvotes": 33,
+    "created_at": "2025-07-21T07:42:15.098Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 97,
+    "parent": 42,
+    "text": "Nice article, very well written.",
+    "upvotes": 99,
+    "created_at": "2024-11-26T20:58:43.936Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 98,
+    "parent": 71,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 78,
+    "created_at": "2023-06-28T18:00:21.465Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 99,
+    "parent": 59,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 14,
+    "created_at": "2024-04-07T22:00:23.647Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 100,
+    "parent": 63,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 79,
+    "created_at": "2025-02-18T17:44:34.931Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 101,
+    "parent": 3,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 19,
+    "created_at": "2024-04-24T15:07:36.614Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 102,
+    "parent": 32,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 9,
+    "created_at": "2025-09-09T23:55:06.164Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 103,
+    "parent": 87,
+    "text": "Nice article, very well written.",
+    "upvotes": 21,
+    "created_at": "2024-09-25T22:30:46.169Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 104,
+    "parent": 103,
+    "text": "I learned something new today.",
+    "upvotes": 61,
+    "created_at": "2023-07-14T06:48:03.076Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 105,
+    "parent": 65,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 66,
+    "created_at": "2023-05-15T05:18:59.166Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 106,
+    "parent": 7,
+    "text": "Very engaging content!",
+    "upvotes": 35,
+    "created_at": "2024-08-04T20:47:12.642Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 107,
+    "parent": 62,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 2,
+    "created_at": "2024-07-07T06:24:24.787Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 108,
+    "parent": 76,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 22,
+    "created_at": "2024-10-03T12:50:59.012Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 109,
+    "parent": 105,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 41,
+    "created_at": "2024-02-09T02:02:58.752Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 110,
+    "parent": 24,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 6,
+    "created_at": "2023-11-04T08:40:25.745Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 111,
+    "parent": 83,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 99,
+    "created_at": "2024-11-25T19:01:11.445Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 112,
+    "parent": 98,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 82,
+    "created_at": "2025-01-07T19:52:32.092Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 113,
+    "parent": 35,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 36,
+    "created_at": "2023-11-15T06:56:38.780Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 114,
+    "parent": 47,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 4,
+    "created_at": "2025-06-27T16:54:45.723Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 115,
+    "parent": 43,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 64,
+    "created_at": "2023-03-30T01:11:16.697Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 116,
+    "parent": 58,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 7,
+    "created_at": "2024-10-15T14:57:48.976Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 117,
+    "parent": 50,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 28,
+    "created_at": "2024-10-07T03:13:57.957Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 118,
+    "parent": 14,
+    "text": "I completely agree with your point here.",
+    "upvotes": 43,
+    "created_at": "2023-04-29T02:04:14.141Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 119,
+    "parent": 96,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 79,
+    "created_at": "2022-12-18T22:58:24.592Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 120,
+    "parent": 97,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 90,
+    "created_at": "2024-01-28T18:14:18.583Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 121,
+    "parent": 119,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 12,
+    "created_at": "2024-03-14T20:58:14.894Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 122,
+    "parent": 78,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 5,
+    "created_at": "2025-06-24T18:48:07.889Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 123,
+    "parent": 54,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 78,
+    "created_at": "2024-08-09T20:27:38.089Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 124,
+    "parent": 61,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 16,
+    "created_at": "2023-08-28T16:53:22.041Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 125,
+    "parent": 2,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 84,
+    "created_at": "2023-05-29T19:04:02.331Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 126,
+    "parent": 36,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 32,
+    "created_at": "2025-08-05T21:08:43.225Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 127,
+    "parent": 62,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 92,
+    "created_at": "2025-08-07T00:51:25.854Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 128,
+    "parent": 31,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 44,
+    "created_at": "2024-06-02T04:38:03.485Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 129,
+    "parent": 127,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 49,
+    "created_at": "2023-02-14T13:23:08.718Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 130,
+    "parent": 79,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 72,
+    "created_at": "2024-01-27T19:09:49.159Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 131,
+    "parent": 93,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 63,
+    "created_at": "2025-03-29T19:31:13.730Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 132,
+    "parent": 124,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 88,
+    "created_at": "2023-06-20T18:06:07.512Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 133,
+    "parent": 6,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 5,
+    "created_at": "2023-12-12T09:54:59.052Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 134,
+    "parent": 54,
+    "text": "I learned something new today.",
+    "upvotes": 61,
+    "created_at": "2024-03-14T15:29:22.335Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 135,
+    "parent": 113,
+    "text": "This needs more clarification.",
+    "upvotes": 58,
+    "created_at": "2023-01-11T10:52:27.599Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 136,
+    "parent": 26,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 44,
+    "created_at": "2023-06-20T10:31:21.061Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 137,
+    "parent": 38,
+    "text": "I think this argument is weak.",
+    "upvotes": 46,
+    "created_at": "2025-06-19T17:45:43.590Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 138,
+    "parent": 21,
+    "text": "Very engaging content!",
+    "upvotes": 61,
+    "created_at": "2024-12-13T04:40:41.430Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 139,
+    "parent": 80,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 50,
+    "created_at": "2024-01-24T14:58:58.419Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 140,
+    "parent": 57,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 13,
+    "created_at": "2024-12-26T03:17:20.589Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 141,
+    "parent": 90,
+    "text": "Nice article, very well written.",
+    "upvotes": 80,
+    "created_at": "2024-02-09T16:00:58.358Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 142,
+    "parent": 51,
+    "text": "I think this argument is weak.",
+    "upvotes": 13,
+    "created_at": "2024-06-16T09:03:48.475Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 143,
+    "parent": 27,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 60,
+    "created_at": "2023-05-04T00:12:23.653Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 144,
+    "parent": 56,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 15,
+    "created_at": "2023-03-03T06:00:08.289Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 145,
+    "parent": 46,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 55,
+    "created_at": "2023-06-15T14:40:49.932Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 146,
+    "parent": 140,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 66,
+    "created_at": "2025-09-03T19:02:58.064Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 147,
+    "parent": 26,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 95,
+    "created_at": "2024-08-15T10:57:54.195Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 148,
+    "parent": 109,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 89,
+    "created_at": "2023-10-11T19:36:24.191Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 149,
+    "parent": 109,
+    "text": "I completely agree with your point here.",
+    "upvotes": 33,
+    "created_at": "2023-12-28T18:23:45.007Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 150,
+    "parent": 132,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 69,
+    "created_at": "2023-09-15T05:34:09.297Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 151,
+    "parent": 10,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 11,
+    "created_at": "2025-06-09T17:57:46.323Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 152,
+    "parent": 5,
+    "text": "I learned something new today.",
+    "upvotes": 48,
+    "created_at": "2023-11-14T03:15:05.774Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 153,
+    "parent": 152,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 3,
+    "created_at": "2024-04-07T14:32:29.053Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 154,
+    "parent": 30,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 36,
+    "created_at": "2025-07-01T09:53:28.066Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 155,
+    "parent": 12,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 28,
+    "created_at": "2023-11-07T08:29:35.962Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 156,
+    "parent": 30,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 25,
+    "created_at": "2023-10-20T03:15:15.099Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 157,
+    "parent": 109,
+    "text": "I completely agree with your point here.",
+    "upvotes": 90,
+    "created_at": "2022-10-24T02:03:21.397Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 158,
+    "parent": 99,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 43,
+    "created_at": "2023-03-29T14:01:22.576Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 159,
+    "parent": 82,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 47,
+    "created_at": "2025-01-13T08:27:57.035Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 160,
+    "parent": 90,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 83,
+    "created_at": "2024-11-07T07:55:09.470Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 161,
+    "parent": 138,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 83,
+    "created_at": "2024-09-09T23:26:20.496Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 162,
+    "parent": 45,
+    "text": "Very engaging content!",
+    "upvotes": 88,
+    "created_at": "2025-01-16T18:38:24.193Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 163,
+    "parent": 141,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 93,
+    "created_at": "2023-07-09T18:58:44.226Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 164,
+    "parent": 109,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 89,
+    "created_at": "2023-05-24T22:34:19.648Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 165,
+    "parent": 150,
+    "text": "This needs more clarification.",
+    "upvotes": 54,
+    "created_at": "2025-10-07T07:40:38.922Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 166,
+    "parent": 21,
+    "text": "I learned something new today.",
+    "upvotes": 53,
+    "created_at": "2023-12-18T00:11:41.341Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 167,
+    "parent": 93,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 88,
+    "created_at": "2024-01-12T21:24:44.401Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 168,
+    "parent": 16,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 100,
+    "created_at": "2023-05-26T13:36:44.496Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 169,
+    "parent": 153,
+    "text": "I learned something new today.",
+    "upvotes": 93,
+    "created_at": "2023-11-30T09:12:26.106Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 170,
+    "parent": 130,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 84,
+    "created_at": "2023-08-14T14:27:12.298Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 171,
+    "parent": 115,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 56,
+    "created_at": "2023-07-14T13:09:22.756Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 172,
+    "parent": 20,
+    "text": "I learned something new today.",
+    "upvotes": 34,
+    "created_at": "2023-04-03T23:46:52.104Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 173,
+    "parent": 5,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 54,
+    "created_at": "2023-12-13T14:08:02.965Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 174,
+    "parent": 117,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 51,
+    "created_at": "2023-09-24T07:33:47.344Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 175,
+    "parent": 159,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 5,
+    "created_at": "2025-01-17T18:27:41.916Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 176,
+    "parent": 12,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 93,
+    "created_at": "2023-08-20T16:47:46.815Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 177,
+    "parent": 170,
+    "text": "This needs more clarification.",
+    "upvotes": 97,
+    "created_at": "2024-09-14T18:38:56.755Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 178,
+    "parent": 170,
+    "text": "Very engaging content!",
+    "upvotes": 50,
+    "created_at": "2025-06-28T16:47:40.112Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 179,
+    "parent": 52,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 56,
+    "created_at": "2023-10-17T16:08:33.865Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 180,
+    "parent": 160,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 91,
+    "created_at": "2022-12-18T14:45:03.431Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 181,
+    "parent": 13,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 38,
+    "created_at": "2025-07-08T04:55:25.802Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 182,
+    "parent": 167,
+    "text": "I learned something new today.",
+    "upvotes": 57,
+    "created_at": "2025-08-26T08:21:47.168Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 183,
+    "parent": 43,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 65,
+    "created_at": "2025-10-13T03:30:13.591Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 184,
+    "parent": 146,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 66,
+    "created_at": "2025-03-11T18:15:49.226Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 185,
+    "parent": 8,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 90,
+    "created_at": "2024-09-23T10:22:56.792Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 186,
+    "parent": 65,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 60,
+    "created_at": "2024-01-23T05:39:03.614Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 187,
+    "parent": 62,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 58,
+    "created_at": "2024-07-11T14:00:21.695Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 188,
+    "parent": 112,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 100,
+    "created_at": "2023-04-29T12:32:51.973Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 189,
+    "parent": 187,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 51,
+    "created_at": "2023-10-11T02:57:43.648Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 190,
+    "parent": 130,
+    "text": "I completely agree with your point here.",
+    "upvotes": 52,
+    "created_at": "2023-12-22T02:27:54.753Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 191,
+    "parent": 13,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 85,
+    "created_at": "2024-11-11T15:59:11.897Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 192,
+    "parent": 1,
+    "text": "This needs more clarification.",
+    "upvotes": 45,
+    "created_at": "2022-10-18T20:03:36.332Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 193,
+    "parent": 132,
+    "text": "I completely agree with your point here.",
+    "upvotes": 80,
+    "created_at": "2025-07-15T02:05:51.909Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 194,
+    "parent": 86,
+    "text": "I learned something new today.",
+    "upvotes": 91,
+    "created_at": "2023-09-27T22:16:01.027Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 195,
+    "parent": 146,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 54,
+    "created_at": "2022-11-14T20:18:07.807Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 196,
+    "parent": 168,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 36,
+    "created_at": "2024-05-16T08:42:40.200Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 197,
+    "parent": 20,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 28,
+    "created_at": "2022-12-03T07:10:01.096Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 198,
+    "parent": 83,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 47,
+    "created_at": "2025-01-20T18:58:17.667Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 199,
+    "parent": 132,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 74,
+    "created_at": "2022-12-30T22:45:48.610Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 200,
+    "parent": 121,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 23,
+    "created_at": "2024-05-30T22:38:34.062Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 201,
+    "parent": 61,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 77,
+    "created_at": "2023-09-03T14:16:39.528Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 202,
+    "parent": 170,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 53,
+    "created_at": "2023-01-31T12:49:50.023Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 203,
+    "parent": 114,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 72,
+    "created_at": "2024-03-16T06:53:36.995Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 204,
+    "parent": 65,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 62,
+    "created_at": "2024-11-03T10:55:19.297Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 205,
+    "parent": 199,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 44,
+    "created_at": "2024-10-27T22:13:53.311Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 206,
+    "parent": 149,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 39,
+    "created_at": "2024-06-05T15:54:40.505Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 207,
+    "parent": 52,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 82,
+    "created_at": "2023-05-10T23:44:02.524Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 208,
+    "parent": 69,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 50,
+    "created_at": "2023-12-10T10:15:56.326Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 209,
+    "parent": 131,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 92,
+    "created_at": "2024-05-28T23:58:15.663Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 210,
+    "parent": 28,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 71,
+    "created_at": "2025-08-10T15:14:58.954Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 211,
+    "parent": 144,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 15,
+    "created_at": "2025-05-21T03:51:07.542Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 212,
+    "parent": 133,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 58,
+    "created_at": "2025-02-05T23:04:30.685Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 213,
+    "parent": 171,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 71,
+    "created_at": "2025-10-05T02:10:23.198Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 214,
+    "parent": 184,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 82,
+    "created_at": "2022-11-23T23:23:03.448Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 215,
+    "parent": 172,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 57,
+    "created_at": "2024-07-14T14:31:47.143Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 216,
+    "parent": 213,
+    "text": "Brilliant explanation!",
+    "upvotes": 0,
+    "created_at": "2024-08-30T18:10:27.579Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 217,
+    "parent": 42,
+    "text": "This needs more clarification.",
+    "upvotes": 22,
+    "created_at": "2022-11-30T00:52:43.581Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 218,
+    "parent": 104,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 73,
+    "created_at": "2023-07-30T10:44:15.507Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 219,
+    "parent": 8,
+    "text": "I think this argument is weak.",
+    "upvotes": 83,
+    "created_at": "2024-03-12T13:57:39.015Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 220,
+    "parent": 208,
+    "text": "I learned something new today.",
+    "upvotes": 92,
+    "created_at": "2024-08-14T04:13:02.325Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 221,
+    "parent": 150,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 57,
+    "created_at": "2022-10-24T23:26:29.610Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 222,
+    "parent": 176,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 66,
+    "created_at": "2022-10-16T17:18:58.668Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 223,
+    "parent": 216,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 22,
+    "created_at": "2025-05-16T00:10:09.191Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 224,
+    "parent": 109,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 28,
+    "created_at": "2024-08-27T08:38:58.191Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 225,
+    "parent": 64,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 0,
+    "created_at": "2024-11-26T19:31:37.193Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 226,
+    "parent": 225,
+    "text": "Brilliant explanation!",
+    "upvotes": 88,
+    "created_at": "2024-05-13T13:30:35.465Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 227,
+    "parent": 57,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 83,
+    "created_at": "2025-09-26T02:47:48.033Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 228,
+    "parent": 15,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 51,
+    "created_at": "2025-02-11T23:15:50.302Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 229,
+    "parent": 117,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 50,
+    "created_at": "2023-05-13T20:59:10.859Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 230,
+    "parent": 150,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 68,
+    "created_at": "2024-08-02T20:10:43.306Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 231,
+    "parent": 81,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 24,
+    "created_at": "2024-08-14T09:22:33.642Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 232,
+    "parent": 74,
+    "text": "Brilliant explanation!",
+    "upvotes": 90,
+    "created_at": "2024-03-24T06:21:28.945Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 233,
+    "parent": 26,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 47,
+    "created_at": "2024-08-08T22:59:11.400Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 234,
+    "parent": 97,
+    "text": "Nice article, very well written.",
+    "upvotes": 97,
+    "created_at": "2025-10-08T15:15:40.332Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 235,
+    "parent": 71,
+    "text": "Nice article, very well written.",
+    "upvotes": 73,
+    "created_at": "2023-10-13T06:29:43.173Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 236,
+    "parent": 73,
+    "text": "I learned something new today.",
+    "upvotes": 99,
+    "created_at": "2024-03-06T10:08:09.117Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 237,
+    "parent": 207,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 26,
+    "created_at": "2024-03-19T08:50:33.013Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 238,
+    "parent": 55,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 78,
+    "created_at": "2025-05-29T20:35:18.740Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 239,
+    "parent": 127,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 84,
+    "created_at": "2025-05-16T03:08:51.105Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 240,
+    "parent": 15,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 90,
+    "created_at": "2023-11-24T01:44:51.460Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 241,
+    "parent": 183,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 58,
+    "created_at": "2024-04-14T04:05:26.119Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 242,
+    "parent": 181,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 91,
+    "created_at": "2023-03-26T18:04:45.122Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 243,
+    "parent": 241,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 8,
+    "created_at": "2025-05-01T21:29:08.448Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 244,
+    "parent": 215,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 87,
+    "created_at": "2024-11-09T00:58:08.220Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 245,
+    "parent": 92,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 25,
+    "created_at": "2023-05-03T19:53:53.835Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 246,
+    "parent": 199,
+    "text": "This needs more clarification.",
+    "upvotes": 34,
+    "created_at": "2024-10-01T10:27:46.055Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 247,
+    "parent": 82,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 77,
+    "created_at": "2024-09-16T17:22:16.744Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 248,
+    "parent": 217,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 0,
+    "created_at": "2024-09-26T16:23:36.977Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 249,
+    "parent": 89,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 40,
+    "created_at": "2023-06-08T23:38:12.799Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 250,
+    "parent": 56,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 34,
+    "created_at": "2024-12-26T22:07:22.688Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 251,
+    "parent": 77,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 70,
+    "created_at": "2024-01-04T21:50:34.092Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 252,
+    "parent": 50,
+    "text": "I learned something new today.",
+    "upvotes": 44,
+    "created_at": "2023-03-25T22:32:14.584Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 253,
+    "parent": 43,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 97,
+    "created_at": "2024-03-28T10:54:01.728Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 254,
+    "parent": 252,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 14,
+    "created_at": "2025-06-29T17:51:22.476Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 255,
+    "parent": 170,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 3,
+    "created_at": "2022-10-31T18:36:21.518Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 256,
+    "parent": 220,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 23,
+    "created_at": "2023-08-18T14:46:58.489Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 257,
+    "parent": 9,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 65,
+    "created_at": "2023-08-09T07:33:39.764Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 258,
+    "parent": 73,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 50,
+    "created_at": "2025-04-01T11:36:29.284Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 259,
+    "parent": 39,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 65,
+    "created_at": "2023-07-30T14:08:18.533Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 260,
+    "parent": 35,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 38,
+    "created_at": "2023-05-01T19:21:38.101Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 261,
+    "parent": 32,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 68,
+    "created_at": "2023-05-24T21:18:39.863Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 262,
+    "parent": 226,
+    "text": "Brilliant explanation!",
+    "upvotes": 92,
+    "created_at": "2025-08-27T07:01:41.655Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 263,
+    "parent": 176,
+    "text": "Very engaging content!",
+    "upvotes": 44,
+    "created_at": "2023-03-14T03:32:58.050Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 264,
+    "parent": 214,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 55,
+    "created_at": "2025-07-30T21:17:44.062Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 265,
+    "parent": 183,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 73,
+    "created_at": "2025-03-10T13:45:42.535Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 266,
+    "parent": 166,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 10,
+    "created_at": "2022-11-12T11:55:04.057Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 267,
+    "parent": 66,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 95,
+    "created_at": "2023-04-08T17:19:46.033Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 268,
+    "parent": 9,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 43,
+    "created_at": "2023-01-06T21:32:52.198Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 269,
+    "parent": 122,
+    "text": "This needs more clarification.",
+    "upvotes": 50,
+    "created_at": "2022-12-13T00:31:38.234Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 270,
+    "parent": 74,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 35,
+    "created_at": "2022-12-19T18:30:37.966Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 271,
+    "parent": 187,
+    "text": "I completely agree with your point here.",
+    "upvotes": 52,
+    "created_at": "2023-03-14T17:29:26.456Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 272,
+    "parent": 152,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 7,
+    "created_at": "2024-12-01T20:56:34.072Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 273,
+    "parent": 127,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 42,
+    "created_at": "2024-12-07T12:16:09.017Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 274,
+    "parent": 249,
+    "text": "Very engaging content!",
+    "upvotes": 34,
+    "created_at": "2022-10-22T14:20:49.303Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 275,
+    "parent": 62,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 12,
+    "created_at": "2025-06-27T12:58:34.239Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 276,
+    "parent": 229,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 32,
+    "created_at": "2025-04-09T04:28:04.806Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 277,
+    "parent": 168,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 48,
+    "created_at": "2023-11-13T21:10:44.659Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 278,
+    "parent": 224,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 17,
+    "created_at": "2024-11-29T06:47:00.974Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 279,
+    "parent": 69,
+    "text": "Brilliant explanation!",
+    "upvotes": 47,
+    "created_at": "2024-02-18T21:38:42.416Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 280,
+    "parent": 28,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 79,
+    "created_at": "2022-12-03T05:33:06.347Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 281,
+    "parent": 154,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 63,
+    "created_at": "2023-12-24T01:42:23.712Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 282,
+    "parent": 163,
+    "text": "Very engaging content!",
+    "upvotes": 92,
+    "created_at": "2024-03-07T12:16:10.627Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 283,
+    "parent": 162,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 20,
+    "created_at": "2022-11-17T12:01:08.663Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 284,
+    "parent": 159,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 20,
+    "created_at": "2024-03-24T17:35:55.787Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 285,
+    "parent": 279,
+    "text": "I completely agree with your point here.",
+    "upvotes": 70,
+    "created_at": "2024-06-18T20:43:49.981Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 286,
+    "parent": 176,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 45,
+    "created_at": "2024-06-09T10:22:44.666Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 287,
+    "parent": 82,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 62,
+    "created_at": "2023-05-03T16:36:40.033Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 288,
+    "parent": 157,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 82,
+    "created_at": "2023-12-28T04:25:27.648Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 289,
+    "parent": 96,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 36,
+    "created_at": "2023-09-15T23:11:48.060Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 290,
+    "parent": 211,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 20,
+    "created_at": "2023-05-20T17:14:13.873Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 291,
+    "parent": 138,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 57,
+    "created_at": "2024-12-10T16:05:04.896Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 292,
+    "parent": 288,
+    "text": "I think this argument is weak.",
+    "upvotes": 92,
+    "created_at": "2023-08-27T20:40:10.136Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 293,
+    "parent": 188,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 21,
+    "created_at": "2025-06-20T22:09:10.471Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 294,
+    "parent": 181,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 29,
+    "created_at": "2024-11-03T18:16:32.155Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 295,
+    "parent": 179,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 38,
+    "created_at": "2024-02-26T06:48:18.071Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 296,
+    "parent": 230,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 40,
+    "created_at": "2023-01-04T07:13:33.199Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 297,
+    "parent": 104,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 23,
+    "created_at": "2025-01-12T14:15:16.750Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 298,
+    "parent": 137,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 0,
+    "created_at": "2024-06-16T10:51:06.040Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 299,
+    "parent": 126,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 15,
+    "created_at": "2023-04-25T00:28:55.676Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 300,
+    "parent": 191,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 79,
+    "created_at": "2023-01-10T09:34:16.023Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 301,
+    "parent": 139,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 72,
+    "created_at": "2023-03-08T16:27:03.527Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 302,
+    "parent": 54,
+    "text": "I completely agree with your point here.",
+    "upvotes": 18,
+    "created_at": "2022-11-07T04:59:03.460Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 303,
+    "parent": 69,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 8,
+    "created_at": "2025-07-04T11:03:25.855Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 304,
+    "parent": 56,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 99,
+    "created_at": "2024-10-11T01:52:55.931Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 305,
+    "parent": 21,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 30,
+    "created_at": "2023-04-17T19:10:09.711Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 306,
+    "parent": 30,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 86,
+    "created_at": "2024-09-15T14:55:08.987Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 307,
+    "parent": 279,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 64,
+    "created_at": "2023-08-05T19:37:39.092Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 308,
+    "parent": 307,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 17,
+    "created_at": "2025-03-31T15:17:53.887Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 309,
+    "parent": 256,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 48,
+    "created_at": "2024-10-27T14:23:25.417Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 310,
+    "parent": 298,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 46,
+    "created_at": "2024-04-03T10:51:21.954Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 311,
+    "parent": 110,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 37,
+    "created_at": "2023-05-23T22:07:30.466Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 312,
+    "parent": 89,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 43,
+    "created_at": "2025-09-19T21:24:01.656Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 313,
+    "parent": 186,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 49,
+    "created_at": "2024-01-22T13:11:18.044Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 314,
+    "parent": 149,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 11,
+    "created_at": "2024-11-05T15:25:08.111Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 315,
+    "parent": 5,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 100,
+    "created_at": "2023-02-16T09:49:04.354Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 316,
+    "parent": 292,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 60,
+    "created_at": "2025-06-07T13:12:39.067Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 317,
+    "parent": 34,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 48,
+    "created_at": "2023-11-06T16:47:46.527Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 318,
+    "parent": 234,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 85,
+    "created_at": "2024-02-21T03:41:53.010Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 319,
+    "parent": 288,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 24,
+    "created_at": "2023-04-04T06:15:46.993Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 320,
+    "parent": 215,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 63,
+    "created_at": "2023-09-12T15:46:05.507Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 321,
+    "parent": 320,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 34,
+    "created_at": "2024-06-16T05:44:14.435Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 322,
+    "parent": 223,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 46,
+    "created_at": "2025-05-14T11:05:12.731Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 323,
+    "parent": 282,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 58,
+    "created_at": "2024-02-28T16:50:02.810Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 324,
+    "parent": 248,
+    "text": "Nice article, very well written.",
+    "upvotes": 23,
+    "created_at": "2023-03-19T05:26:00.957Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 325,
+    "parent": 256,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 66,
+    "created_at": "2024-11-16T05:36:34.765Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 326,
+    "parent": 300,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 22,
+    "created_at": "2024-06-23T14:31:31.452Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 327,
+    "parent": 123,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 13,
+    "created_at": "2025-07-13T08:03:08.439Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 328,
+    "parent": 151,
+    "text": "Brilliant explanation!",
+    "upvotes": 14,
+    "created_at": "2024-07-19T06:38:56.209Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 329,
+    "parent": 42,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 11,
+    "created_at": "2024-12-03T07:35:05.432Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 330,
+    "parent": 290,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 28,
+    "created_at": "2023-01-26T01:27:04.339Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 331,
+    "parent": 38,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 48,
+    "created_at": "2025-01-01T19:45:14.056Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 332,
+    "parent": 208,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 91,
+    "created_at": "2023-07-15T16:43:16.320Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 333,
+    "parent": 115,
+    "text": "I think this argument is weak.",
+    "upvotes": 97,
+    "created_at": "2025-02-07T08:44:07.085Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 334,
+    "parent": 86,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 97,
+    "created_at": "2023-05-15T05:27:18.052Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 335,
+    "parent": 198,
+    "text": "Brilliant explanation!",
+    "upvotes": 91,
+    "created_at": "2023-06-28T00:22:04.506Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 336,
+    "parent": 308,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 13,
+    "created_at": "2025-03-08T10:39:01.545Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 337,
+    "parent": 240,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 60,
+    "created_at": "2024-02-03T10:13:54.033Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 338,
+    "parent": 22,
+    "text": "I learned something new today.",
+    "upvotes": 82,
+    "created_at": "2025-05-19T03:37:07.833Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 339,
+    "parent": 50,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 3,
+    "created_at": "2023-07-25T10:07:52.639Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 340,
+    "parent": 234,
+    "text": "I completely agree with your point here.",
+    "upvotes": 18,
+    "created_at": "2025-07-30T16:39:33.432Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 341,
+    "parent": 150,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 14,
+    "created_at": "2024-04-02T16:04:48.821Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 342,
+    "parent": 302,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 24,
+    "created_at": "2023-10-13T01:08:43.925Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 343,
+    "parent": 119,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 43,
+    "created_at": "2023-07-15T03:22:44.213Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 344,
+    "parent": 45,
+    "text": "I think this argument is weak.",
+    "upvotes": 23,
+    "created_at": "2022-11-27T10:41:23.046Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 345,
+    "parent": 32,
+    "text": "Brilliant explanation!",
+    "upvotes": 7,
+    "created_at": "2025-01-04T06:53:50.667Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 346,
+    "parent": 85,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 50,
+    "created_at": "2024-09-26T17:48:01.043Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 347,
+    "parent": 94,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 52,
+    "created_at": "2025-09-25T12:28:47.721Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 348,
+    "parent": 200,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 32,
+    "created_at": "2023-04-03T19:42:40.430Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 349,
+    "parent": 337,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 39,
+    "created_at": "2024-08-19T23:01:10.416Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 350,
+    "parent": 100,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 88,
+    "created_at": "2023-09-21T13:02:44.273Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 351,
+    "parent": 334,
+    "text": "I think this argument is weak.",
+    "upvotes": 62,
+    "created_at": "2024-11-16T09:35:43.407Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 352,
+    "parent": 89,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 17,
+    "created_at": "2022-11-06T11:56:55.992Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 353,
+    "parent": 135,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 55,
+    "created_at": "2025-07-31T18:12:40.562Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 354,
+    "parent": 239,
+    "text": "This needs more clarification.",
+    "upvotes": 71,
+    "created_at": "2023-02-07T17:39:43.492Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 355,
+    "parent": 220,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 23,
+    "created_at": "2024-02-14T07:41:03.249Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 356,
+    "parent": 281,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 39,
+    "created_at": "2025-06-16T06:42:12.022Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 357,
+    "parent": 88,
+    "text": "Very engaging content!",
+    "upvotes": 29,
+    "created_at": "2024-03-19T06:44:10.970Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 358,
+    "parent": 75,
+    "text": "Brilliant explanation!",
+    "upvotes": 30,
+    "created_at": "2022-10-24T17:19:50.726Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 359,
+    "parent": 128,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 100,
+    "created_at": "2023-04-12T11:06:41.435Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 360,
+    "parent": 354,
+    "text": "I think this argument is weak.",
+    "upvotes": 25,
+    "created_at": "2025-02-09T18:21:45.213Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 361,
+    "parent": 313,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 61,
+    "created_at": "2023-11-13T02:48:08.741Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 362,
+    "parent": 234,
+    "text": "I completely agree with your point here.",
+    "upvotes": 86,
+    "created_at": "2023-10-13T17:49:32.284Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 363,
+    "parent": 252,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 1,
+    "created_at": "2024-06-27T00:48:27.483Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 364,
+    "parent": 21,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 54,
+    "created_at": "2024-10-06T05:09:54.361Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 365,
+    "parent": 169,
+    "text": "I think this argument is weak.",
+    "upvotes": 73,
+    "created_at": "2024-05-09T04:15:03.764Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 366,
+    "parent": 140,
+    "text": "I learned something new today.",
+    "upvotes": 1,
+    "created_at": "2023-09-21T23:05:41.896Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 367,
+    "parent": 31,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 21,
+    "created_at": "2024-01-11T00:41:15.621Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 368,
+    "parent": 366,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 80,
+    "created_at": "2025-07-30T12:14:27.213Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 369,
+    "parent": 258,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 51,
+    "created_at": "2025-07-08T13:50:23.888Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 370,
+    "parent": 69,
+    "text": "I completely agree with your point here.",
+    "upvotes": 58,
+    "created_at": "2022-12-26T08:37:40.822Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 371,
+    "parent": 103,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 15,
+    "created_at": "2025-09-26T19:13:06.224Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 372,
+    "parent": 173,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 96,
+    "created_at": "2025-05-27T15:42:15.092Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 373,
+    "parent": 145,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 57,
+    "created_at": "2024-12-25T18:41:57.115Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 374,
+    "parent": 335,
+    "text": "Very engaging content!",
+    "upvotes": 85,
+    "created_at": "2023-03-01T17:05:25.006Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 375,
+    "parent": 190,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 80,
+    "created_at": "2025-01-30T10:20:57.683Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 376,
+    "parent": 114,
+    "text": "Nice article, very well written.",
+    "upvotes": 14,
+    "created_at": "2025-09-04T07:35:17.644Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 377,
+    "parent": 198,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 99,
+    "created_at": "2024-11-09T02:27:15.397Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 378,
+    "parent": 328,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 60,
+    "created_at": "2025-01-27T21:33:45.354Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 379,
+    "parent": 285,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 17,
+    "created_at": "2025-06-30T09:07:14.773Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 380,
+    "parent": 125,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 30,
+    "created_at": "2023-12-05T18:29:36.369Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 381,
+    "parent": 34,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 18,
+    "created_at": "2024-10-07T18:19:44.020Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 382,
+    "parent": 315,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 33,
+    "created_at": "2024-06-22T20:35:54.518Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 383,
+    "parent": 217,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 13,
+    "created_at": "2025-06-11T00:22:17.966Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 384,
+    "parent": 351,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 43,
+    "created_at": "2025-08-10T21:41:16.686Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 385,
+    "parent": 304,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 38,
+    "created_at": "2024-11-14T11:59:36.327Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 386,
+    "parent": 306,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 60,
+    "created_at": "2023-10-24T21:21:57.872Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 387,
+    "parent": 184,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 24,
+    "created_at": "2025-01-27T13:52:16.445Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 388,
+    "parent": 348,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 45,
+    "created_at": "2023-01-30T01:10:12.177Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 389,
+    "parent": 107,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 0,
+    "created_at": "2025-09-06T05:18:10.935Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 390,
+    "parent": 177,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 59,
+    "created_at": "2023-07-07T17:12:45.738Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 391,
+    "parent": 357,
+    "text": "Nice article, very well written.",
+    "upvotes": 96,
+    "created_at": "2025-10-02T00:03:49.114Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 392,
+    "parent": 57,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 85,
+    "created_at": "2024-01-02T04:14:44.564Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 393,
+    "parent": 12,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 14,
+    "created_at": "2025-03-30T13:59:24.876Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 394,
+    "parent": 343,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 50,
+    "created_at": "2023-12-24T20:19:08.944Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 395,
+    "parent": 236,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 35,
+    "created_at": "2025-09-17T00:41:53.827Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 396,
+    "parent": 221,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 93,
+    "created_at": "2023-08-13T20:08:34.836Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 397,
+    "parent": 215,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 87,
+    "created_at": "2022-12-15T13:44:33.142Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 398,
+    "parent": 99,
+    "text": "Brilliant explanation!",
+    "upvotes": 0,
+    "created_at": "2025-08-05T08:16:47.506Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 399,
+    "parent": 78,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 77,
+    "created_at": "2022-12-29T09:55:07.879Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 400,
+    "parent": 136,
+    "text": "I completely agree with your point here.",
+    "upvotes": 5,
+    "created_at": "2024-03-11T01:11:48.739Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 401,
+    "parent": 114,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 57,
+    "created_at": "2023-12-19T18:21:23.397Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 402,
+    "parent": 78,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 43,
+    "created_at": "2023-07-27T08:03:06.854Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 403,
+    "parent": 360,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 39,
+    "created_at": "2024-05-06T08:19:37.418Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 404,
+    "parent": 77,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 20,
+    "created_at": "2023-04-15T13:18:37.762Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 405,
+    "parent": 184,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 87,
+    "created_at": "2023-05-13T13:31:22.559Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 406,
+    "parent": 254,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 51,
+    "created_at": "2023-08-10T06:22:00.142Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 407,
+    "parent": 296,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 91,
+    "created_at": "2023-04-28T11:02:09.762Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 408,
+    "parent": 337,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 98,
+    "created_at": "2023-01-13T14:24:20.475Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 409,
+    "parent": 230,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 19,
+    "created_at": "2025-03-10T02:52:40.229Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 410,
+    "parent": 373,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 68,
+    "created_at": "2024-03-19T09:31:31.936Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 411,
+    "parent": 321,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 78,
+    "created_at": "2024-10-05T13:04:04.719Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 412,
+    "parent": 366,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 3,
+    "created_at": "2025-04-26T19:12:32.181Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 413,
+    "parent": 21,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 72,
+    "created_at": "2025-07-31T20:24:16.970Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 414,
+    "parent": 146,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 60,
+    "created_at": "2025-07-19T23:33:35.413Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 415,
+    "parent": 257,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 41,
+    "created_at": "2024-10-09T20:37:49.553Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 416,
+    "parent": 404,
+    "text": "Very engaging content!",
+    "upvotes": 3,
+    "created_at": "2024-07-22T05:53:36.308Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 417,
+    "parent": 233,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 53,
+    "created_at": "2024-06-15T16:52:00.531Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 418,
+    "parent": 337,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 97,
+    "created_at": "2022-12-03T21:30:03.191Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 419,
+    "parent": 279,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 30,
+    "created_at": "2022-11-18T06:06:41.134Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 420,
+    "parent": 311,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 73,
+    "created_at": "2025-04-24T18:36:36.696Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 421,
+    "parent": 231,
+    "text": "I learned something new today.",
+    "upvotes": 7,
+    "created_at": "2024-06-22T11:28:31.461Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 422,
+    "parent": 167,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 37,
+    "created_at": "2023-01-28T00:09:25.664Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 423,
+    "parent": 135,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 26,
+    "created_at": "2025-06-02T00:31:20.683Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 424,
+    "parent": 207,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 81,
+    "created_at": "2023-12-04T09:36:17.506Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 425,
+    "parent": 16,
+    "text": "Brilliant explanation!",
+    "upvotes": 70,
+    "created_at": "2025-07-04T10:42:36.175Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 426,
+    "parent": 230,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 73,
+    "created_at": "2025-08-29T18:20:44.624Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 427,
+    "parent": 360,
+    "text": "Nice article, very well written.",
+    "upvotes": 45,
+    "created_at": "2024-11-03T05:42:51.689Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 428,
+    "parent": 128,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 69,
+    "created_at": "2025-04-17T17:40:13.240Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 429,
+    "parent": 170,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 54,
+    "created_at": "2024-10-05T10:17:44.650Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 430,
+    "parent": 201,
+    "text": "This needs more clarification.",
+    "upvotes": 97,
+    "created_at": "2023-11-02T14:36:22.237Z",
+    "user": "c740a93c-99e9-46f2-8e57-cad6232ecb66",
+    "postId": "post-123"
+  },
+  {
+    "_id": 431,
+    "parent": 40,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 58,
+    "created_at": "2025-06-05T20:42:51.040Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 432,
+    "parent": 177,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 47,
+    "created_at": "2023-11-20T21:14:23.779Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 433,
+    "parent": 306,
+    "text": "This needs more clarification.",
+    "upvotes": 79,
+    "created_at": "2025-03-26T20:08:23.027Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 434,
+    "parent": 189,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 62,
+    "created_at": "2022-12-31T13:04:05.209Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 435,
+    "parent": 179,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 2,
+    "created_at": "2022-11-22T05:09:05.692Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 436,
+    "parent": 120,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 86,
+    "created_at": "2023-02-28T21:52:30.103Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 437,
+    "parent": 95,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 35,
+    "created_at": "2023-05-24T13:10:03.803Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 438,
+    "parent": 90,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 2,
+    "created_at": "2024-09-25T12:13:46.360Z",
+    "user": "8f09e48f-f422-4b14-86f3-0a1363ba3923",
+    "postId": "post-123"
+  },
+  {
+    "_id": 439,
+    "parent": 328,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 21,
+    "created_at": "2025-09-19T09:22:02.037Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 440,
+    "parent": 75,
+    "text": "Nice article, very well written.",
+    "upvotes": 65,
+    "created_at": "2025-05-15T03:09:01.150Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 441,
+    "parent": 313,
+    "text": "I think this argument is weak.",
+    "upvotes": 77,
+    "created_at": "2023-07-10T22:53:35.850Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 442,
+    "parent": 24,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 59,
+    "created_at": "2023-08-05T01:25:14.929Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 443,
+    "parent": 191,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 41,
+    "created_at": "2024-05-04T12:11:28.663Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 444,
+    "parent": 330,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 17,
+    "created_at": "2023-06-03T15:24:37.406Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 445,
+    "parent": 136,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 55,
+    "created_at": "2023-06-11T20:56:50.608Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 446,
+    "parent": 313,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 97,
+    "created_at": "2023-07-15T08:12:45.937Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 447,
+    "parent": 402,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 30,
+    "created_at": "2023-10-29T15:36:43.963Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 448,
+    "parent": 417,
+    "text": "Nice article, very well written.",
+    "upvotes": 59,
+    "created_at": "2023-07-27T11:02:15.985Z",
+    "user": "454cca7e-ae1f-4c55-9003-616237c18ba2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 449,
+    "parent": 67,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 71,
+    "created_at": "2024-11-27T09:31:47.923Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 450,
+    "parent": 209,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 67,
+    "created_at": "2023-08-25T21:45:37.256Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 451,
+    "parent": 89,
+    "text": "I love the examples you used, very clear.",
+    "upvotes": 94,
+    "created_at": "2025-02-24T07:10:32.534Z",
+    "user": "966869ae-24d8-4422-9797-41a93a9ce0b5",
+    "postId": "post-123"
+  },
+  {
+    "_id": 452,
+    "parent": 47,
+    "text": "I’m not convinced about this part.",
+    "upvotes": 44,
+    "created_at": "2025-02-03T03:30:00.682Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 453,
+    "parent": 252,
+    "text": "I learned something new today.",
+    "upvotes": 27,
+    "created_at": "2025-06-07T07:42:31.150Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 454,
+    "parent": 34,
+    "text": "I disagree with the main argument here.",
+    "upvotes": 46,
+    "created_at": "2023-02-17T22:30:45.204Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 455,
+    "parent": 359,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 17,
+    "created_at": "2023-12-06T21:46:15.541Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 456,
+    "parent": 13,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 42,
+    "created_at": "2025-07-30T13:58:59.767Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 457,
+    "parent": 6,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 41,
+    "created_at": "2024-07-22T11:06:41.030Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 458,
+    "parent": 364,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 14,
+    "created_at": "2024-01-07T11:10:54.576Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 459,
+    "parent": 263,
+    "text": "Can someone clarify this for me?",
+    "upvotes": 36,
+    "created_at": "2024-08-12T07:33:51.046Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 460,
+    "parent": 49,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 95,
+    "created_at": "2024-04-06T20:56:57.006Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 461,
+    "parent": 334,
+    "text": "Very engaging content!",
+    "upvotes": 22,
+    "created_at": "2024-01-18T20:07:36.350Z",
+    "user": "83528992-7e8c-4042-a18c-2a6d96ef8a45",
+    "postId": "post-123"
+  },
+  {
+    "_id": 462,
+    "parent": 344,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 12,
+    "created_at": "2024-01-27T16:29:52.196Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 463,
+    "parent": 274,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 67,
+    "created_at": "2023-10-26T03:37:31.768Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 464,
+    "parent": 390,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 63,
+    "created_at": "2023-12-07T14:44:10.562Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 465,
+    "parent": 106,
+    "text": "I learned something new today.",
+    "upvotes": 9,
+    "created_at": "2024-07-07T00:19:50.089Z",
+    "user": "540cc3a9-40c7-4f11-bd25-e903c80232b3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 466,
+    "parent": 25,
+    "text": "Amazing work! Keep it up.",
+    "upvotes": 88,
+    "created_at": "2023-01-24T16:49:59.343Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 467,
+    "parent": 45,
+    "text": "Thanks for sharing, very informative.",
+    "upvotes": 85,
+    "created_at": "2025-06-16T04:44:40.825Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 468,
+    "parent": 348,
+    "text": "Very engaging content!",
+    "upvotes": 34,
+    "created_at": "2025-02-23T08:29:15.491Z",
+    "user": "190e2796-a946-4e87-ab08-2a2f1d04294c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 469,
+    "parent": 58,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 10,
+    "created_at": "2023-11-29T07:50:04.751Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 470,
+    "parent": 330,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 33,
+    "created_at": "2025-01-06T18:37:16.308Z",
+    "user": "ae2d6736-cb44-4fa3-9448-8aa2dc617d6c",
+    "postId": "post-123"
+  },
+  {
+    "_id": 471,
+    "parent": 276,
+    "text": "Could you explain this part in more detail?",
+    "upvotes": 61,
+    "created_at": "2025-07-27T16:34:35.050Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 472,
+    "parent": 229,
+    "text": "Can you provide a source for this claim?",
+    "upvotes": 5,
+    "created_at": "2024-08-30T03:20:05.119Z",
+    "user": "8020105d-849c-4553-a316-3c2927eb3247",
+    "postId": "post-123"
+  },
+  {
+    "_id": 473,
+    "parent": 443,
+    "text": "This needs more clarification.",
+    "upvotes": 60,
+    "created_at": "2024-02-20T11:12:50.992Z",
+    "user": "9e92ed55-e15c-4cb1-b5ee-1e0278f38b35",
+    "postId": "post-123"
+  },
+  {
+    "_id": 474,
+    "parent": 290,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 39,
+    "created_at": "2024-04-26T22:06:51.562Z",
+    "user": "cc0588de-70fd-4c20-af6e-297a1a2b94cd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 475,
+    "parent": 279,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 64,
+    "created_at": "2024-01-11T00:48:44.952Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 476,
+    "parent": 304,
+    "text": "This needs more clarification.",
+    "upvotes": 34,
+    "created_at": "2025-06-09T13:02:20.016Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 477,
+    "parent": 153,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 79,
+    "created_at": "2024-06-04T03:33:10.482Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 478,
+    "parent": 102,
+    "text": "This needs more clarification.",
+    "upvotes": 89,
+    "created_at": "2022-11-23T14:09:25.133Z",
+    "user": "c7bd5c99-df9b-4030-a31b-fdd3fba1a3dc",
+    "postId": "post-123"
+  },
+  {
+    "_id": 479,
+    "parent": 159,
+    "text": "Helpful tips, thanks!",
+    "upvotes": 38,
+    "created_at": "2024-06-25T05:28:52.477Z",
+    "user": "bfb3c7e0-f741-40be-bcfc-186e9c219790",
+    "postId": "post-123"
+  },
+  {
+    "_id": 480,
+    "parent": 367,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 89,
+    "created_at": "2023-05-11T23:17:17.044Z",
+    "user": "0c7291b6-21fc-4a88-b945-5be18f3417a4",
+    "postId": "post-123"
+  },
+  {
+    "_id": 481,
+    "parent": 129,
+    "text": "This helped me a lot, thanks!",
+    "upvotes": 97,
+    "created_at": "2022-11-28T16:23:30.888Z",
+    "user": "674ab162-ed36-4267-b49b-e79a90d1874b",
+    "postId": "post-123"
+  },
+  {
+    "_id": 482,
+    "parent": 475,
+    "text": "This could be improved by adding more references.",
+    "upvotes": 11,
+    "created_at": "2023-03-10T02:10:50.667Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 483,
+    "parent": 37,
+    "text": "Does anyone else feel the same way?",
+    "upvotes": 12,
+    "created_at": "2022-11-17T15:02:38.360Z",
+    "user": "9bcad024-ee11-423d-8ce5-dab233f45287",
+    "postId": "post-123"
+  },
+  {
+    "_id": 484,
+    "parent": 39,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 29,
+    "created_at": "2024-11-06T16:51:42.137Z",
+    "user": "aae37746-cefc-4338-bb21-6981b40717dd",
+    "postId": "post-123"
+  },
+  {
+    "_id": 485,
+    "parent": 400,
+    "text": "I think there’s a typo in the third paragraph.",
+    "upvotes": 49,
+    "created_at": "2022-11-05T03:23:03.072Z",
+    "user": "9b0d266c-538e-49c7-bbff-861eb6e1d0bb",
+    "postId": "post-123"
+  },
+  {
+    "_id": 486,
+    "parent": 482,
+    "text": "I have a different perspective on this topic.",
+    "upvotes": 22,
+    "created_at": "2023-10-28T02:38:35.878Z",
+    "user": "7b8c293e-fcda-45c0-910e-03620446aed7",
+    "postId": "post-123"
+  },
+  {
+    "_id": 487,
+    "parent": 358,
+    "text": "Excellent insights, thanks for posting.",
+    "upvotes": 30,
+    "created_at": "2022-11-15T10:44:02.546Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 488,
+    "parent": 485,
+    "text": "I appreciate the effort you put into this.",
+    "upvotes": 28,
+    "created_at": "2025-07-19T06:04:36.265Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 489,
+    "parent": 348,
+    "text": "Not sure I understand this fully.",
+    "upvotes": 67,
+    "created_at": "2022-12-10T07:16:52.297Z",
+    "user": "d9b5c4a2-6224-43c1-ac0e-fac037a68f24",
+    "postId": "post-123"
+  },
+  {
+    "_id": 490,
+    "parent": 390,
+    "text": "Brilliant explanation!",
+    "upvotes": 90,
+    "created_at": "2023-02-15T19:29:30.994Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 491,
+    "parent": 291,
+    "text": "Can we get a follow-up on this topic?",
+    "upvotes": 0,
+    "created_at": "2023-04-01T23:32:33.687Z",
+    "user": "9f8d23cd-8ad0-4335-9d3c-54325a354ed2",
+    "postId": "post-123"
+  },
+  {
+    "_id": 492,
+    "parent": 381,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 11,
+    "created_at": "2022-10-24T04:03:14.225Z",
+    "user": "35da3244-d01f-4a0b-b7ae-c0b4f7f09488",
+    "postId": "post-123"
+  },
+  {
+    "_id": 493,
+    "parent": 81,
+    "text": "Brilliant explanation!",
+    "upvotes": 53,
+    "created_at": "2023-04-08T13:38:13.242Z",
+    "user": "22c9e59a-9859-4b1f-9d3d-dee4242ee482",
+    "postId": "post-123"
+  },
+  {
+    "_id": 494,
+    "parent": 378,
+    "text": "This seems a bit off, I think there’s a mistake.",
+    "upvotes": 68,
+    "created_at": "2025-06-09T07:58:53.264Z",
+    "user": "b11dc688-a097-4f57-9da8-6d79dc46b69e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 495,
+    "parent": 357,
+    "text": "Great post! Really enjoyed reading this.",
+    "upvotes": 36,
+    "created_at": "2024-07-12T17:15:48.630Z",
+    "user": "a0ce8e77-cf55-438c-a133-43a92d5f6893",
+    "postId": "post-123"
+  },
+  {
+    "_id": 496,
+    "parent": 243,
+    "text": "I like how you structured your explanation.",
+    "upvotes": 21,
+    "created_at": "2024-09-26T04:24:41.069Z",
+    "user": "b1c995bf-b6cb-4758-8ad4-dfdde8eb887e",
+    "postId": "post-123"
+  },
+  {
+    "_id": 497,
+    "parent": 298,
+    "text": "This needs more clarification.",
+    "upvotes": 12,
+    "created_at": "2023-11-25T13:04:48.019Z",
+    "user": "2c612e74-1dad-4f91-8d45-b233585e12b1",
+    "postId": "post-123"
+  },
+  {
+    "_id": 498,
+    "parent": 305,
+    "text": "Interesting, I hadn’t thought about it this way before.",
+    "upvotes": 29,
+    "created_at": "2025-07-24T22:41:54.996Z",
+    "user": "a73fc2ad-3c1d-4532-8d2f-00907fcbf045",
+    "postId": "post-123"
+  },
+  {
+    "_id": 499,
+    "parent": 379,
+    "text": "This is confusing, can you provide a simpler example?",
+    "upvotes": 77,
+    "created_at": "2025-08-02T23:18:21.639Z",
+    "user": "4ccdd157-3bde-4bb9-b26a-a86c349cf3d3",
+    "postId": "post-123"
+  },
+  {
+    "_id": 500,
+    "parent": 259,
+    "text": "Brilliant explanation!",
+    "upvotes": 54,
+    "created_at": "2024-07-05T05:07:49.295Z",
+    "user": "67240c02-4120-4b9e-8a53-46deb231f1c2",
+    "postId": "post-123"
+  }
+]
